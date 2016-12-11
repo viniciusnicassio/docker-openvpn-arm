@@ -2,7 +2,6 @@
 
 This is a fork from [kylemanna/docker-openvpn](https://github.com/kylemanna/docker-openvpn) which is not focused on ARM.
 
-[![Build Status](https://travis-ci.org/giggio/docker-openvpn.svg)](https://travis-ci.org/giggio/docker-openvpn)
 [![Docker Stars](https://img.shields.io/docker/stars/giggio/openvpn-arm.svg)](https://hub.docker.com/r/giggio/openvpn-arm/)
 [![Docker Pulls](https://img.shields.io/docker/pulls/giggio/openvpn-arm.svg)](https://hub.docker.com/r/giggio/openvpn-arm/)
 [![ImageLayers](https://images.microbadger.com/badges/image/giggio/openvpn-arm.svg)](https://microbadger.com/#/images/giggio/openvpn-arm)
