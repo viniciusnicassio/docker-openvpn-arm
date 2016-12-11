@@ -1,5 +1,7 @@
 # OpenVPN for Docker on ARM (RaspberryPi)
 
+This is a fork from [kylemanna/docker-openvpn](https://github.com/kylemanna/docker-openvpn) which is not focused on ARM.
+
 [![Build Status](https://travis-ci.org/giggio/docker-openvpn.svg)](https://travis-ci.org/giggio/docker-openvpn)
 [![Docker Stars](https://img.shields.io/docker/stars/giggio/openvpn-arm.svg)](https://hub.docker.com/r/giggio/openvpn-arm/)
 [![Docker Pulls](https://img.shields.io/docker/pulls/giggio/openvpn-arm.svg)](https://hub.docker.com/r/giggio/openvpn-arm/)
@@ -175,7 +177,7 @@ of a guarantee in the future.
      * OpenVPN core 3.0 android armv7a thumb2 32-bit
   * OS X Mavericks with Tunnelblick 3.4beta26 (build 3828) using openvpn-2.3.4
   * ArchLinux OpenVPN pkg 2.3.4-1
-  * 
+  * Windows OpenVPN 2.3.13.20161120
 
 ## Having permissions issues with Selinux enabled?
 
