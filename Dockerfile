@@ -1,9 +1,9 @@
 # Original credit: https://github.com/jpetazzo/dockvpn
 
 # Smallest base image
-FROM alpine:3.4
+FROM hypriot/rpi-alpine-scratch:edge
 
-MAINTAINER Kyle Manna <kyle@kylemanna.com>
+MAINTAINER Giovanni Bassi <giggio@giggio.net>
 
 RUN echo "http://dl-4.alpinelinux.org/alpine/edge/community/" >> /etc/apk/repositories && \
     echo "http://dl-4.alpinelinux.org/alpine/edge/testing/" >> /etc/apk/repositories && \
